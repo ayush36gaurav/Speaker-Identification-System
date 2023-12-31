@@ -6,4 +6,4 @@ The dataset used for this project is available on Kaggle at: https://www.kaggle.
 
 The system uses MFCC to extract features from the voice samples then uses Gaussian Mixture Modelling for each speaker. It uses KMeans Clustering to find the optimal number of components for each speaker's GMM.
 
-The overall accuracy of the Speaker Identification System on the test data is 99.75%.
+The overall accuracy of the Speaker Identification System on the test data is **99.75%**.
