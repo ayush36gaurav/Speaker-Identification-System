@@ -1,6 +1,6 @@
 # Speaker-Identification-System
 
-The Speaker Identification System is designed to identify the speaker based on previously available training dataset.
+The Speaker Identification System is designed to identify a speaker based on previously available training dataset.
 
 The dataset used for this project is available on Kaggle at: https://www.kaggle.com/datasets/kongaevans/speaker-recognition-dataset
 
